@@ -1,0 +1,2 @@
+[console_scripts]
+gpkg_fusion = gpkg_fusion:main

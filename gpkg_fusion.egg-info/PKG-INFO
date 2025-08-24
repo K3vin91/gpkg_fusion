@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: gpkg_fusion
+Version: 0.1.0
+Summary: Herramienta simple para fusionar capas vectoriales (GPKG, SHP, GeoJSON) en un único GeoPackage
+Author: Kevin Irias
+Requires-Python: >=3.8
+License-File: LICENSE.txt
+Requires-Dist: geopandas
+Requires-Dist: fiona
+Requires-Dist: shapely
+Requires-Dist: pyproj
+Dynamic: author
+Dynamic: license-file
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
